@@ -1,0 +1,15 @@
+Meeting: Project Titan - Q4 Planning
+Date: 2025-11-03
+Participants:
+- Dana (dana@example.com)
+- Eve (eve@example.com)
+- Frank (frank@example.com)
+
+Dana: Welcome everyone. Let's discuss the database migration for Project Titan. Eve, what's the progress on the schema design?
+Eve: The schema is finalized. I need to write the migration scripts now. I plan to complete the scripts and have them ready for peer review by 2025-11-10.
+Dana: Excellent. Frank, we need you to provision the new database servers in the staging environment. Can you get that done by the end of this week, say 2025-11-07?
+Frank: Yes, I can handle that. I'll start the provisioning for Project Titan tomorrow morning.
+Dana: Great. My task will be to update the security policies to grant our service accounts access to the new database. I'll complete that by 2025-11-06.
+Eve: Perfect, that's all I need from my side.
+Frank: Roger that.
+Dana: Okay, great progress. Let's sync up again next week.
